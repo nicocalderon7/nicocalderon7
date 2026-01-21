@@ -21,6 +21,8 @@ My main strengths are a solid understanding of the JavaScript ecosystem and the 
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B?logo=wordpress\&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3\&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git\&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
+
 
 **Frontend**
 
