@@ -18,10 +18,10 @@ My main strengths are a solid understanding of the JavaScript ecosystem and the 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript\&logoColor=000)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?logo=react\&logoColor=000)
 ![PHP](https://img.shields.io/badge/PHP-Backend-777BB4?logo=php\&logoColor=fff)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?logo=node.js&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B?logo=wordpress\&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3\&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git\&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)
 
 
 **Frontend**
